@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Cognitive State Analysis** repository! Here, we explore the fascinating world of cognitive states using cutting-edge deep learning models: **EEGNet** and **ATCNet**. Let's dive in!
+Welcome to the **Cognitive State Analysis** repository! Here, we explore the fascinating world of cognitive states using cutting-edge deep learning models: **EEGNet** and **ATCNet**.
 
 ## 1. Cognitive States 🌟
 
