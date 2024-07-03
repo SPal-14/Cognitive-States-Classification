@@ -42,9 +42,9 @@ Understanding cognitive states is like deciphering the brain's secret code. Here
 
 ## References 📚
 
-1. Complex networks and deep learning for EEG signal analysis
-2. EEG-ATCNet GitHub Repository
-3. MSHANet: a multi-scale residual network with hybrid attention
-4. EEG Motor Imagery Deep Learning Repository
+1. Complex networks and deep learning for EEG signal analysis: https://link.springer.com/article/10.1007/s11571-020-09626-1
+2. Research Paper: https://www.mdpi.com/2306-5729/4/1/14
+3. MSHANet: a multi-scale residual network with hybrid attention: https://link.springer.com/article/10.1007/s11571-024-10127-8
+4. EEG Motor Imagery Deep Learning Repository:https://github.com/edw4rdyao/eeg_mi_dl
 
-Feel free to remix this README for your repository. If you need more brainpower (or emojis), just ask! 🧠🤖🌟
+Feel free to fork this repository. If you need more brainpower , just ask! 🧠🤖🌟
